@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+.navbar-toggler button{
+    color: white;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar a img{
+    padding-left: 3rem;
+}
+#navbarNav ul li a {
+    color: white;
+    font-weight: 600;
+}
+#pad {
+    padding-right: 5rem;
+}
+.container1{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    /* display: inline-block; */
+    height: 5rem;
+    width: 40vw;
+    padding-top: 10rem;
+}
+.text span a{
+    text-decoration: none;
+    color: white;
+}
+.TXT1{
+    font-size: 60px;
+    color: white;
+    font-weight: 600;
+}
+.TXT2{
+    
+    color: white;
+}
+.logo a img{
+    height: 6vh;
+    padding-left: 2rem;
+    margin-right: 1rem;
+}
+.photo{
+    /* display: inline-block; */
+    padding-top: 6rem;
+}
+.photo img{
+    height: 60vh;
+}
+.wave{
+    display: block;
+    position: relative;
+    /* z-index: 10; */
+}
+
+.last{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+}
+/* <!-- -----------------------WHat we offer------------------------------ --> */
+.HEADING-LINE{
+    margin: 2rem 0rem 2rem 0rem ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading h1{
+    color:#5f1782;
+    font-weight: 400;
+    /* text-align: center; */
+}
+.line {
+    width: 15vw;
+    height: .4rem;
+    background-color: #5f1782;
+    
+}
+.services{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 2rem;
+    padding: 2rem;
+    display: flex;
+    
+    align-items: center;
+    border: none;
+}
+.card img{
+    height: 10vh;
+    width: 5vw;
+}
+.card-body{
+    text-align: center;
+}
+.card-body h5{
+    font-weight: 600;
+}
+.button-center{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.button .btn{
+    border-radius: 20px;
+    width: 10vw;
+    background-image: linear-gradient(to bottom, #a517ba, #5f1782);
+    border: none;
+}
+
+/* <!-- -------------------WHy Choose US---------------------------------- --> */
+
+.Choose-US{
+    background-color: rgb(241, 241, 241);
+    margin-top: 20vh;
+    margin-bottom: 15vh;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    margin: 20vh;
+}
+.heading2 h3{
+    margin: 1rem;
+    font-weight: 800;
+    font-size: 40px;
+}
+.points ul li {
+    margin: 1rem 1rem 1rem 0rem;
+}
+.photo2 img{
+    padding-bottom: 10vh;
+    padding-left: 10vw;
+}
+.heading h1{
+    padding-top: 10vh;
+}
+
+/* <!-- ---------what client says--------------------------------- --> */
+.Client{
+    margin-bottom: 20vh;
+}
+.client1{
+    height: 15vh;
+    width: 25vw;
+}
+.client-photo{
+    display: inline-block;
+
+}
+.client-photo img{
+    height: 10vh;
+}
+
+.client-photo-name-post{
+    display: flex;
+}
+.client-name{
+    font-weight: 600;
+}
+.client-name-post{
+    margin-top: 2vh;
+    margin-left: 1vw;
+}
+.client-line{
+    margin: 0 1vw;
+    height: 30vh;
+    width: 0.5vw;
+    background-color:#5f1782 ;
+}
+.client-1-profile{
+    margin: 2vh 3vw;
+}
+/* ---------------SOcial Media--------------------------- */
+/* .social-media{
+    background-color: rgb(241, 241, 241)
+} */
+.box4{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+}
+.social-media-text h2{
+    text-align: center;
+    padding: 20vh 0 0 5vh;
+    font-weight: 600;
+}
+.s-media-icons a img{
+    height: 20vh;
+    margin-top: 10vh;
+    
+    position: relative;
+}
+.s-media-icons a img:hover{
+    bottom: 20px
+
+}
+
+/* --------------------contact us----------------------- */
+
+.box5{
+    padding-top: 20vh;
+    height: 60vh;
+    width: 100%;
+    background-color: #5f1782;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    
+}
+
+.logo-text{
+    /* height: 40vh; */
+    width: 20vw;
+    
+}
+.logo-text p{
+    color: white;
+}
+.button button{
+    margin: 2rem 0rem;
+    background-image: linear-gradient(to bottom, #a517ba, #7e7a44);
+    width: 10vw;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+.contact-us ul {
+    padding-left: 1rem;
+}
+.contact-us h5{
+    font-weight: 600;
+}
+.get-in-touch h5{
+    font-weight: 600;
+}

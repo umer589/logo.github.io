@@ -1,0 +1,194 @@
+@media (max-width:410px) {
+    .navbar a img {
+        padding-left: 0rem;
+        height: 3vh;
+    }
+
+    .TXT1 {
+
+        font-size: 1.5rem;
+        padding-left: 22px;
+        font-weight: 600;
+    }
+
+    .TXT2 {
+        font-size: 10px;
+        padding-left: 25px;
+
+    }
+
+    .photo img {
+        height: 26vh;
+        position: relative;
+        top: 101px;
+    }
+
+    .logo a img {
+        height: 3vh;
+        padding-left: 25px;
+        margin-right: 0rem;
+    }
+
+    .line {
+        width: 38vw;
+    }
+    #watch_tut a {
+        font-size: 11px;
+    }
+
+    .card img {
+        height: 5vh;
+        width: 12vw;
+    }
+    .card-body h5{
+        font-size: 3vh;
+    }
+    .card-body p{
+        font-size: 2vh;
+    }
+    .services{
+        flex-direction: column;
+    }
+    .button .btn{
+        width: 33vw;
+    }
+    .photo2 img{
+        display: none;
+    }
+    .box3{
+        flex-direction: column;
+        
+    }
+    .client1{
+        width: 100%;
+    }
+    .client-line{
+        width: 6px;
+    }
+    .social-media-text h2{
+        font-size: 20px;
+    }
+    .s-media-icons {
+        flex-direction: row;
+        /* align-items: center; */
+    }
+    #icon1 a  img,#icon2 a  img,#icon3 a  img,#icon4 a  img,#icon5 a  img,#icon6 a  img{
+        height: 6vh;
+    }
+    .contact{
+        display: none;
+    }
+}
+
+/* -----------------------413px----------------------------- */
+
+@media (max-width:413px) {
+    .navbar a img {
+        padding-left: 0rem;
+        height: 3vh;
+    }
+
+    .TXT1 {
+
+        font-size: 1.5rem;
+        padding-left: 22px;
+        font-weight: 600;
+    }
+
+    .TXT2 {
+        font-size: 10px;
+        padding-left: 25px;
+
+    }
+
+    .photo img {
+        height: 26vh;
+        position: relative;
+        top: 101px;
+    }
+
+    .logo a img {
+        height: 3vh;
+        padding-left: 25px;
+        margin-right: 0rem;
+    }
+
+    .line {
+        width: 38vw;
+    }
+    #watch_tut a {
+        font-size: 11px;
+    }
+
+    .card img {
+        height: 5vh;
+        width: 12vw;
+    }
+    .card-body h5{
+        font-size: 3vh;
+    }
+    .card-body p{
+        font-size: 2vh;
+    }
+    .services{
+        flex-direction: column;
+        align-items: center;
+    }
+    .button .btn{
+        width: 33vw;
+    }
+    .photo2 img{
+        display: none;
+    }
+    .box3{
+        flex-direction: column;
+        
+    }
+    .client1{
+        width: 100%;
+    }
+    .client-line{
+        width: 6px;
+    }
+    .social-media-text h2{
+        font-size: 20px;
+    }
+    .s-media-icons {
+        flex-direction: row;
+        /* align-items: center; */
+    }
+    #icon1 a  img,#icon2 a  img,#icon3 a  img,#icon4 a  img,#icon5 a  img,#icon6 a  img{
+        height: 6vh;
+    }
+    .contact{
+        display: none;
+    }
+}
+/* ---------------------------812px----------------------------------- */
+@media (max-width:1024px) {
+    .TXT1{
+        font-size: 38px;
+    }
+    .text{
+        padding-left:31px; ;
+    }
+    .photo img{
+        height: 40vh;
+    }
+    .logo a img{
+        height: 3vh;
+        margin-right: 0rem;
+    }
+    .card img{
+        height: 5vh;
+    }
+    .button .btn{
+        width: 21vw;
+    }
+    .s-media-icons a img{
+        height: 8vh;
+    }
+    .social-media-text h2{
+        padding: 4rem 0 0 0;
+    }
+}
